@@ -1,0 +1,180 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #ff4c55;
+  color:#fff;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.h-meet{
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight:900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h3{
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+/* navigation bar */
+.navbar {
+  padding:0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight:normal;
+}
+
+.navbar-brand {
+  font-family:"Ubuntu";
+  font-size: 2.5rem;
+  font-weight:lighter;
+}
+
+/* download buttons */
+
+.download-button {
+  margin:5% 3% 5% 0;
+}
+
+/* title image */
+
+.title-image {
+  width:60%;
+  transform: rotate(25deg);
+}
+
+/* features */
+
+#features {
+  padding:7% 15%;
+}
+
+.feature-box {
+  text-align:center;
+  padding: 5%;
+}
+
+/* icons */
+
+.icons {
+  color: #ff4c85;
+  margin-bottom: 1rem;
+}
+
+.icons:hover {
+  color:#ff4c55;
+}
+
+/* Testimonial section */
+
+#testimonials {
+  text-align: center;
+  background-color: #ff4c35;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* press section */
+
+#press {
+  background-color: #ff4c35;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+   width: 15%;
+   margin: 20px 20px 15px;
+ }
+
+/* pricing cards */
+
+.a-plan{
+  text-align: center;
+  margin: 3% 0;
+}
+
+.cards-p{
+  margin-bottom: 3%;
+}
+
+.cards{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.cards2{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.cards3{
+  padding-left: 60px;
+  padding-right: 60px
+}
+
+/* Call to Action */
+
+.calltoaction{
+  padding-top: 100px;
+  text-align: center;
+  background-color: #ff4c55;
+}
+
+.find_the{
+  color: white;
+  font-size: 2.3rem;
+
+}
+
+/* footer */
+
+.footer{
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: 5%;
+  color: black;
+}
+
+.contact-1{
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.fff{
+  padding: 0 1%;
+}
